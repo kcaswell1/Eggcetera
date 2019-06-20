@@ -50,10 +50,10 @@ a{
     color: rgb(17, 0, 210);
     padding-top: 40px;
 }
-.btn{
+.menu{
     padding-bottom: 40px;
 }
-.btn1, .btn2, .btn3{
+.btn{
     color: rgb(233, 233, 233);
     border: yellow 3px solid;
     background: rgba(17, 0, 210, .6);
