@@ -70,10 +70,6 @@ a{
     font-weight: 400px;
 }
 
-.btn:hover{
-    background-color: yellow;
-    color: black;
-
 h3{
     margin-block-start: 0;
     margin-block-end: 0;
@@ -156,7 +152,7 @@ h2{
         font-size: 14px;
     }
 
-    .btn1, .btn2, .btn3{
+    .btn{
         height: 80px;
         width: 240px;
         font-size: 22px;
@@ -174,7 +170,7 @@ h2{
         font-size: 28px;
     }
 
-    .btn1, .btn2, .btn3{
+    .btn{
         width: 300px;
     }
 
