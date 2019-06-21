@@ -70,6 +70,11 @@ a{
     font-weight: 400px;
 }
 
+.btn:hover{
+    background-color: yellow;
+    color: blue;
+}
+
 h3{
     margin-block-start: 0;
     margin-block-end: 0;
